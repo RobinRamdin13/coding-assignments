@@ -1,2 +1,2 @@
-#### Executing fibonacci.py
+# Executing fibonacci.py
 To run the main file run the following command within your terminal `python fibonacci.py`. Following which the program will wait for a user input for the desired n th index of the Fibonacci Sequence.
