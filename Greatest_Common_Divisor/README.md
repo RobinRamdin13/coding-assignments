@@ -1,0 +1,2 @@
+# Executing gcd.py
+To run the main file run the following command within your terminal `python gcd.py`. Following which the program will wait for a user input which consists of two integers. The program will then return greatest common divisor between the two input integers
