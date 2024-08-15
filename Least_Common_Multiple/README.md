@@ -1,0 +1,2 @@
+# Executing lcm.py
+To run the main file run the following command within your terminal `python lcm.py`. Following which the program will wait for a user input which consists of two integers. The program will then return least common multiple between the two input integers
