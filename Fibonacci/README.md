@@ -1,3 +1,7 @@
+### Introduction
+This folder contains individual scripts for different problem statements using Fibonacci sequence. External constraints were set on the space and time complexity to ensure the scripts run efficiently for very large inputs. The purpose of each of the scripts can be found in their function descriptions.
+___
+
 ### Executing fibonacci.py
 To run the main file run the following command within your terminal `python fibonacci.py`. Following which the program will wait for the user input:
 - `n`: n-th Fibonacci number 
