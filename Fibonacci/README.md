@@ -1,5 +1,7 @@
 ## Introduction
 This folder contains individual scripts for different problem statements using Fibonacci sequence. External constraints were set on the space and time complexity to ensure the scripts run efficiently for very large inputs. The purpose of each of the scripts can be found in their function descriptions.
+
+To ensure time and space complexity were met, **Pisano Periods** in most cases as opposed of naive approaches. Consider familiarizing yourself with this topic before going through the scripts for a better understanding.
 ___
 
 ### Executing fibonacci.py
