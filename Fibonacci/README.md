@@ -19,7 +19,7 @@ Different files require different number of inputs, I have consolidated all the 
 ### Time Complexity
 Below are the time complexities for each of the scripts.
 - `fibonacci.py`&#8594; O(n)
-- `fibonacci_huge.py`&#8594; O(m)
+- `fibonacci_huge.py`&#8594; O(m) (due to computation of pisano period)
 - `fibonacci_last_digit.py`&#8594; O(n)
 - `last_digit_of_sum_squares_of_fibonacci.py`&#8594; O(1)
 - `last_digit_of_the_sum_of_fibonacci.py`&#8594; O(1)
