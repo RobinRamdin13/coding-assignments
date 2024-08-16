@@ -4,32 +4,27 @@ This folder contains individual scripts for different problem statements using F
 To ensure time and space complexity were met, **Pisano Periods** in most cases as opposed of naive approaches. Consider familiarizing yourself with this topic before going through the scripts for a better understanding.
 ___
 
-### Executing fibonacci.py
-To run the main file run the following command within your terminal `python fibonacci.py`. Following which the program will wait for the user input:
-- `n`: n-th Fibonacci number 
+### Executing python files
+To run a file, run the following command within your terminal `python name_of_file`. Where `name_of_file` is to be substituted by the desired file name. 
 
-### Executing fibonacci_huge.py
-To run the main file run the following command within your terminal `python fibonacci_huge.py`. Following which the program will wait for the user inputs:
-- `n`: n-th Fibonacci number 
-- `m`: modulo number
+### File inputs 
+Different files require different number of inputs, I have consolidated all the inputs and a short description for each rescpective file here: 
+- `fibonacci.py`->`n`: n-th Fibonacci number 
+- `fibonacci_huge.py`->`n`: n-th Fibonacci number &  `m`: modulo number
+- `fibonacci_last_digit.py`->`n`: n-th Fibonacci number 
+- `last_digit_of_sum_squares_of_fibonacci.py`->`n`: n-th Fibonacci number 
+- `last_digit_of_the_sum_of_fibonacci.py`->`n`: n-th Fibonacci number 
+- `last_digit_partial_sum_of_fibonacci.py`->`m`: m-th Fibonacci number & `n`: n-th Fibonacci number 
 
-### Executing fibonacci_last_digit.py
-To run the main file run the following command within your terminal `python fibonacci_last_digit.py`. Following which the program will wait for the user input:
-- `n`: n-th Fibonacci number 
-
-### Executing last_digit_of_sum_squares_of_fibonacci.py
-To run the main file run the following command within your terminal `python last_digit_of_sum_squares_of_fibonacci.py`. Following which the program will wait for the user input:
-- `n`: n-th Fibonacci number 
-
-### Executing last_digit_of_the_sum_of_fibonacci.py
-To run the main file run the following command within your terminal `python last_digit_of_the_sum_of_fibonacci.py`. Following which the program will wait for the user input:
-- `n`: n-th Fibonacci number 
-
-### Executing last_digit_partial_sum_of_fibonacci.py
-To run the main file run the following command within your terminal `python last_digit_partial_sum_of_fibonacci.py`. Following which the program will wait for the user input:
-- `m`: m-th Fibonacci number
-- `n`: n-th Fibonacci number 
-
+### Time Complexity
+Below are the time complexities for each of the scripts.
+- `fibonacci.py`-> O(n)
+- `fibonacci_huge.py`-> O(m)
+- `fibonacci_last_digit.py`-> O(n)
+- `last_digit_of_sum_squares_of_fibonacci.py`-> O(1)
+- `last_digit_of_the_sum_of_fibonacci.py`-> O(1)
+- `last_digit_partial_sum_of_fibonacci.py`-> O(1)
+ 
 ___
 
 ### Note:
