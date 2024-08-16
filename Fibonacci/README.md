@@ -9,21 +9,21 @@ To run a file, run the following command within your terminal `python name_of_fi
 
 ### File inputs 
 Different files require different number of inputs, I have consolidated all the inputs and a short description for each rescpective file here: 
-- `fibonacci.py`->`n`: n-th Fibonacci number 
-- `fibonacci_huge.py`->`n`: n-th Fibonacci number &  `m`: modulo number
-- `fibonacci_last_digit.py`->`n`: n-th Fibonacci number 
-- `last_digit_of_sum_squares_of_fibonacci.py`->`n`: n-th Fibonacci number 
-- `last_digit_of_the_sum_of_fibonacci.py`->`n`: n-th Fibonacci number 
-- `last_digit_partial_sum_of_fibonacci.py`->`m`: m-th Fibonacci number & `n`: n-th Fibonacci number 
+- `fibonacci.py`&#8594; `n`: n-th Fibonacci number 
+- `fibonacci_huge.py`&#8594; `n`: n-th Fibonacci number &  `m`: modulo number
+- `fibonacci_last_digit.py`&#8594; `n`: n-th Fibonacci number 
+- `last_digit_of_sum_squares_of_fibonacci.py`&#8594; `n`: n-th Fibonacci number 
+- `last_digit_of_the_sum_of_fibonacci.py`&#8594; `n`: n-th Fibonacci number 
+- `last_digit_partial_sum_of_fibonacci.py`&#8594; `m`: m-th Fibonacci number & `n`: n-th Fibonacci number 
 
 ### Time Complexity
 Below are the time complexities for each of the scripts.
-- `fibonacci.py`-> O(n)
-- `fibonacci_huge.py`-> O(m)
-- `fibonacci_last_digit.py`-> O(n)
-- `last_digit_of_sum_squares_of_fibonacci.py`-> O(1)
-- `last_digit_of_the_sum_of_fibonacci.py`-> O(1)
-- `last_digit_partial_sum_of_fibonacci.py`-> O(1)
+- `fibonacci.py`&#8594; O(n)
+- `fibonacci_huge.py`&#8594; O(m)
+- `fibonacci_last_digit.py`&#8594; O(n)
+- `last_digit_of_sum_squares_of_fibonacci.py`&#8594; O(1)
+- `last_digit_of_the_sum_of_fibonacci.py`&#8594; O(1)
+- `last_digit_partial_sum_of_fibonacci.py`&#8594; O(1)
  
 ___
 
