@@ -28,4 +28,4 @@ Below are the time complexities for each of the scripts.
 ___
 
 ### Note:
-Since we are using the pisano periods in most cases, the sum of the pisano for modulo 10 is equal to zero (i.e `sum(pisano_for_mod_10)%10 == 0`). When computing the product between number of pisano periods into the pisano total the product is always zero for modulo 10. This is also the case observed when using squared Fibonacci number. The logic was kept within the scripts to enable usage of other modulo.
+Since we are using the pisano periods in most cases, the sum of the pisano for modulo 10's last digit is equal to zero (i.e `sum(pisano_for_mod_10)%10 == 0`). When computing the product between number of pisano periods into the pisano total the product is always zero for modulo 10. This is also the case observed when using squared Fibonacci number. The logic was kept within the scripts to enable usage of other modulo.
