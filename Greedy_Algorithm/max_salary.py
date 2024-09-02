@@ -9,7 +9,7 @@ def remove_numb(numbers:List, number:str)->List:
         number (str): number to remove
 
     Returns:
-        List: _description_
+        List: shortened list
     """    
     for i in range(len(numbers)): 
         if numbers[i] == number: 

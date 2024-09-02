@@ -1,7 +1,7 @@
 ## Introduction
 This folder contains individual scripts for different problem statements using Fibonacci sequence. External constraints were set on the space and time complexity to ensure the scripts run efficiently for very large inputs. The purpose of each of the scripts can be found in their function descriptions.
 
-To ensure time and space complexity were met, **Pisano Periods** in most cases as opposed of naive approaches. Consider familiarizing yourself with this topic before going through the scripts for a better understanding.
+To ensure time and space complexity were met, **Pisano Periods** were used in most cases as opposed of naive approaches. Consider familiarizing yourself with this topic before going through the scripts for a better understanding.
 ___
 
 ### Executing python files
@@ -28,4 +28,4 @@ Below are the time complexities for each of the scripts.
 ___
 
 ### Note:
-Since we are using the pisano periods in most cases, the sum of the pisano for modulo 10 is equal to zero (i.e `sum(pisano_for_mod_10)%10 == 0`). When computing the product between number of pisano periods into the pisano total the product is always zero for modulo 10. This is also the case observed when using squared Fibonacci number. The logic was kept within the scripts to enable usage of other modulo.
+Since we are using the pisano periods in most cases, the sum of the pisano for modulo 10's last digit is equal to zero (i.e `sum(pisano_for_mod_10)%10 == 0`). When computing the product between number of pisano periods into the pisano total the product is always zero for modulo 10. This is also the case observed when using squared Fibonacci number. The logic was kept within the scripts to enable usage of other modulo.

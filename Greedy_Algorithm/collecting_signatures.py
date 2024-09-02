@@ -16,7 +16,7 @@ def main(segments:List)->List:
     points = []
     while segments: 
         curr = compute_smallest_end(segments)
-        points.append(compute_smallest_end(segments))
+        points.append(curr)
         segments = reduce_segments(segments, curr)
     return points
 
